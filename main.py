@@ -1,2 +1,2 @@
 print("hello jenkins temp")
-print() 
+print(1) 
